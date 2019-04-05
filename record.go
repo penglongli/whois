@@ -51,6 +51,9 @@ func init() {
 		"red":parseGeneral,
 		"link": parseGeneral,
 		"info": parseGeneral,
+		"bet": parseGeneral,
+		"vip": parseGeneral,
+		"fun": parseGeneral,
 	}
 }
 
