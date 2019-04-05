@@ -54,6 +54,8 @@ func init() {
 		"bet": parseGeneral,
 		"vip": parseGeneral,
 		"fun": parseGeneral,
+		"co": parseGeneral,
+		"today": parseGeneral,
 	}
 }
 
