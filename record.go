@@ -56,6 +56,8 @@ func init() {
 		"fun": parseGeneral,
 		"co": parseGeneral,
 		"today": parseGeneral,
+		"in": parseGeneral,
+		"tv": parseGeneral,
 	}
 }
 
